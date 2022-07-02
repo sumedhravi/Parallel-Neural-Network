@@ -1,0 +1,31 @@
+[
+{
+  "number of epochs" : "1",
+  "Training duration in seconds" : "177.05",
+  "Accuracy" : "94.44"
+}
+,
+{
+  "number of epochs" : "2",
+  "Training duration in seconds" : "357.873",
+  "Accuracy" : "95.01"
+}
+,
+{
+  "number of epochs" : "3",
+  "Training duration in seconds" : "535.837",
+  "Accuracy" : "95.93"
+}
+,
+{
+  "number of epochs" : "4",
+  "Training duration in seconds" : "718.189",
+  "Accuracy" : "96.07"
+}
+,
+{
+  "number of epochs" : "5",
+  "Training duration in seconds" : "893.519",
+  "Accuracy" : "96.4"
+}
+]

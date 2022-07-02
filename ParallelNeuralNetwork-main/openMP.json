@@ -1,0 +1,71 @@
+[
+{
+  "is parallel" : "1",
+  "number of epochs" : "1",
+  "Training duration in seconds" : "0.61887",
+  "Accuracy" : "85.73"
+}
+,
+{
+  "is parallel" : "1",
+  "number of epochs" : "2",
+  "Training duration in seconds" : "1.15353",
+  "Accuracy" : "89.62"
+}
+,
+{
+  "is parallel" : "1",
+  "number of epochs" : "3",
+  "Training duration in seconds" : "1.76746",
+  "Accuracy" : "91.17"
+}
+,
+{
+  "is parallel" : "1",
+  "number of epochs" : "4",
+  "Training duration in seconds" : "2.25895",
+  "Accuracy" : "91.94"
+}
+,
+{
+  "is parallel" : "1",
+  "number of epochs" : "5",
+  "Training duration in seconds" : "4.00468",
+  "Accuracy" : "92.74"
+}
+,
+{
+  "is parallel" : "1",
+  "number of epochs" : "6",
+  "Training duration in seconds" : "3.43674",
+  "Accuracy" : "93.15"
+}
+,
+{
+  "is parallel" : "1",
+  "number of epochs" : "7",
+  "Training duration in seconds" : "3.9678",
+  "Accuracy" : "93.64"
+}
+,
+{
+  "is parallel" : "1",
+  "number of epochs" : "8",
+  "Training duration in seconds" : "4.55652",
+  "Accuracy" : "93.88"
+}
+,
+{
+  "is parallel" : "1",
+  "number of epochs" : "9",
+  "Training duration in seconds" : "5.07911",
+  "Accuracy" : "94.1"
+}
+,
+{
+  "is parallel" : "1",
+  "number of epochs" : "10",
+  "Training duration in seconds" : "5.75704",
+  "Accuracy" : "94.32"
+}
+]
